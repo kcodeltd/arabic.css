@@ -7,7 +7,7 @@ forked from [xz/new.css](https://github.com/xz/new.css)
 Add this line to the end of your HTML's `<head>`:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kcodeltd/new.css@latest/new.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kcodeltd/new.css@latest/new.min.css">
 ```
 
 If you'd like the font [Inter](https://rsms.me/inter) as well (recommended), add this line as well:
