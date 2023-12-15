@@ -1,7 +1,7 @@
 {
   "name": "@kcodeltd/arabic.css",
   "version": "1.0.0",
-  "description": "A classless CSS framework to write modern websites using only HTML.",
+  "description": "A classless Arabic CSS framework to write modern websites using only HTML.",
   "main": "arabic.css",
   "repository": {
     "type": "git",
