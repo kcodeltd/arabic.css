@@ -321,7 +321,7 @@ dt {
 
 dd::before {
 	/* Add an arrow to data table definitions */
-	content: '→ ';
+	content: '← ';
 }
 
 hr {
