@@ -1,16 +1,16 @@
 {
-  "name": "@kcodeltd/new.css",
+  "name": "@kcodeltd/arabic.css",
   "version": "1.0.0",
   "description": "A classless CSS framework to write modern websites using only HTML.",
-  "main": "new.css",
+  "main": "arabic.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kcodeltd/new.css.git"
+    "url": "git+https://github.com/kcodeltd/arabic.css.git"
   },
   "author": "Example",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kcodeltd/new.css/issues"
+    "url": "https://github.com/kcodeltd/arabic.css/issues"
   },
-  "homepage": "https://newcss.net"
+  "homepage": "https://arabic-css.com"
 }
