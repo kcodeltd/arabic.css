@@ -7,11 +7,11 @@ forked from [xz/new.css](https://github.com/xz/new.css)
 Add this line to the end of your HTML's `<head>`:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kcodeltd/arabic.css@latest/new.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kcodeltd/arabic.css@latest/arabic.min.css">
 ```
 
-If you'd like the font [Inter](https://rsms.me/inter) as well (recommended), add this line as well:
+If you'd like the font `Rubik` as well (recommended), add this line as well:
 
 ```html
-<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 ```
