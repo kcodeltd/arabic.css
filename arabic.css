@@ -19,6 +19,8 @@
 	/* Reset margins and padding */
 	margin: 0;
 	padding: 0;
+	direction: rtl;
+	text-align: right;
 }
 
 address,
@@ -272,6 +274,7 @@ pre {
 	padding: 1rem 1.4rem;
 	max-width: 100%;
 	overflow: auto;
+	text-align: left;
 }
 
 pre code {
@@ -360,7 +363,7 @@ table {
 td,
 th {
 	border: 1px solid var(--nc-bg-3);
-	text-align: left;
+	text-align: right;
 	padding: .5rem;
 }
 
