@@ -379,7 +379,6 @@ ol,
 ul {
 	/* Replace the browser default padding */
 	padding-right: 1rem;
-	list-style-position: inside;
 }
 
 ol {
