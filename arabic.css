@@ -382,6 +382,10 @@ ul {
 	list-style-position: inside;
 }
 
+ol {
+	list-style: arabic-indic;
+}
+
 li {
 	margin-top: .4rem;
 }
