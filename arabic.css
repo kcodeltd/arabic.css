@@ -378,7 +378,8 @@ textarea {
 ol,
 ul {
 	/* Replace the browser default padding */
-	padding-left: 2rem;
+	padding-right: 1rem;
+	list-style-position: inside;
 }
 
 li {
