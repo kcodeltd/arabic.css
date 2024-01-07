@@ -418,3 +418,33 @@ input {
 img {
 	max-width: 100%;
 }
+
+article {
+	border: 1px solid var(--ar-bg-3);
+	border-radius: .25rem;
+}
+
+article h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6 {
+	border-top: 1px solid var(--ar-bg-3);
+	border-bottom: 1px solid var(--ar-bg-3);
+	background: var(--ar-bg-2);
+	padding: 5px;
+}
+
+article h1:nth-child(1),
+article h2:nth-child(1),
+article h3:nth-child(1),
+article h4:nth-child(1),
+article h5:nth-child(1),
+article h6:nth-child(1) {
+	border-top: none;
+}
+
+article p {
+	padding: 10px;
+}
